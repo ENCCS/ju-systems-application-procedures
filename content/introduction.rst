@@ -12,3 +12,10 @@ Subsection
 ^^^^^^^^^^
 
 hello
+
+
+.. challenge::
+
+  Write your own JU application!
+  
+  
