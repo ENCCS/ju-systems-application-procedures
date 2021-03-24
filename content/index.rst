@@ -36,7 +36,7 @@ During this interactive tutorian we will:
    guide
 
 .. figure:: img/JU_call_types.png
-   :scale: 70%
+   :scale: 5%
    :alt: EuroHPC JU types of calls
    :align: center
 
