@@ -1,5 +1,5 @@
 Quick References
----------------
+----------------
 
 .. list-table:: Useful links
    :widths: 25 25
