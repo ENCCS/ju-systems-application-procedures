@@ -3,7 +3,7 @@ Quick References
 
 .. list-table:: Useful links
    :widths: 25 25 50
-   :header-rows: 1
+   :header-rows: 0
 
    * - EU project
      - Heading row 1, column 2
