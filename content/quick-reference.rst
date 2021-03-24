@@ -5,9 +5,10 @@ Quick References
    :widths: 25 25 50
    :header-rows: 0
 
-   * - EU project
-     - Heading row 1, column 2
-     - Heading row 1, column 3
+   * - PRACE infrastructure
+     - `https://prace-ri.eu/ <https://prace-ri.eu/>`_
+
+    
    * - Row 1, column 1
      -
      - Row 1, column 3
