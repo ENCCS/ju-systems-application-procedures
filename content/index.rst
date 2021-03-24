@@ -35,7 +35,10 @@ During this interactive tutorian we will:
    quick-reference
    guide
 
-
+.. figure:: img/call_types_table.png
+   :scale: 70%
+   :alt: EuroHPC JU types of calls
+   :align: center
 
 .. _learner-personas:
 
