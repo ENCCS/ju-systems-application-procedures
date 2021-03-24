@@ -7,12 +7,7 @@ Quick References
 
    * - PRACE infrastructure
      -  `https://prace-ri.eu/ <https://prace-ri.eu/>`_
-     - kjkhjh
    * - Row 1, column 1
-     - kjkhjh
      - Row 1, column 3
    * - Row 2, column 1
      - Row 2, column 2
-     - Row 2, column 3
-     
-`PRACE infrastructure <https://prace-ri.eu/>`_
