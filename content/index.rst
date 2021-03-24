@@ -33,10 +33,11 @@ The material of the tutorial is licensed under `CC-BY-4.0
    :widths: auto
    :delim: ;
 
-   30 min ; :doc:`introduction`
+   10 min ; :doc:`subsections/systems`
+   10 min ; :doc:`subsections/access_modes`
+   30 min ; :doc:`isubsections/review`
    10 min ; Break
-   30 min ; :doc:`introduction`
-   30 min ; :doc:`introduction`
+   30 min ; :doc:`subsections/applications`
 
 .. toctree::
    :hidden:
