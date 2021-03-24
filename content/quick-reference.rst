@@ -2,7 +2,7 @@ Quick References
 ---------------
 
 .. list-table:: Useful links
-   :widths: 25 25 50
+   :widths: 25 25
    :header-rows: 0
 
    * - PRACE infrastructure
@@ -11,3 +11,4 @@ Quick References
      - Row 1, column 3
    * - Row 2, column 1
      - Row 2, column 2
+     
