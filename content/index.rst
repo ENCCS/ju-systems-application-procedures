@@ -11,6 +11,11 @@ During this interactive tutorial we will:
 
 .. prereq::
 
+No prerequisits are needed.
+
+Who is the course for?
+----------------------
+
    The tutorial is intended for both applicants that have already had some experience with PRACE applications but most importantly for those who have never tried the European access call applications. However, we hope you already are acquainted with the consepts of `PRACE infrastructure <https://prace-ri.eu/>`_ and `EuroHPC JU <https://eurohpc-ju.europa.eu/>`_ from our yesterday's LUMI roadshow event.
 
 About the tutorial
@@ -53,18 +58,6 @@ The material of the tutorial is licensed under `CC-BY-4.0
    :align: center
 
 .. _learner-personas:
-
-Who is the course for?
-----------------------
-
-
-
-
-
-About the course
-----------------
-
-
 
 
 
