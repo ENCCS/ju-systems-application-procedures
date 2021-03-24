@@ -35,7 +35,7 @@ The material of the tutorial is licensed under `CC-BY-4.0
 
    10 min ; :doc:`subsections/systems`
    10 min ; :doc:`subsections/access_modes`
-   30 min ; :doc:`isubsections/review`
+   30 min ; :doc:`subsections/review`
    10 min ; Break
    30 min ; :doc:`subsections/applications`
 
@@ -44,7 +44,10 @@ The material of the tutorial is licensed under `CC-BY-4.0
    :maxdepth: 1
    :caption: The lesson
 
-   introduction
+   subsections/systems
+   subsections/access_modes
+   subsections/review
+   subsections/applications
 
 .. toctree::
    :maxdepth: 1
