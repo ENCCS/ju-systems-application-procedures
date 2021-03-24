@@ -6,11 +6,10 @@ Quick References
    :header-rows: 0
 
    * - PRACE infrastructure
-     - `https://prace-ri.eu/ <https://prace-ri.eu/>`_
-
-    
+     -  `https://prace-ri.eu/ <https://prace-ri.eu/>`_
+     - kjkhjh
    * - Row 1, column 1
-     -
+     - kjkhjh
      - Row 1, column 3
    * - Row 2, column 1
      - Row 2, column 2
