@@ -1,4 +1,18 @@
 Quick References
 ---------------
 
-url       = "https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1457",
+.. list-table:: Useful links
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Heading row 1, column 1
+     - Heading row 1, column 2
+     - Heading row 1, column 3
+   * - Row 1, column 1
+     -
+     - Row 1, column 3
+   * - Row 2, column 1
+     - Row 2, column 2
+     - Row 2, column 3
+     
+`PRACE infrastructure <https://prace-ri.eu/>`_
