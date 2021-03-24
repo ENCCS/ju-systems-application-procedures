@@ -10,7 +10,7 @@ During this interactive tutorial we will:
 
 .. prereq::
 
-No prerequisits are needed.
+   No prerequisits are needed.
 
 Who is the course for?
 ----------------------
@@ -33,13 +33,13 @@ The material of the tutorial is licensed under `CC-BY-4.0
    :widths: auto
    :delim: ;
 
-   10 min ; :doc:`filename`
-   10 min ; :doc:`filename`
-   30 min ; :doc:`filename`
+   30 min ; :doc:`introduction`
    10 min ; Break
-   30 min ; :doc:`filename`
+   30 min ; :doc:`introduction`
+   30 min ; :doc:`introduction`
 
 .. toctree::
+   :hidden:
    :maxdepth: 1
    :caption: The lesson
 
