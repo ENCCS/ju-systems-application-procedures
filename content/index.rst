@@ -8,7 +8,6 @@ During this interactive tutorial we will:
 #. Learn about the internal review and evaluation procedures of the submitted applications
 #. Learn the tips and tricks on how to fill in the access call application forms 
 
-
 .. prereq::
 
 No prerequisits are needed.
