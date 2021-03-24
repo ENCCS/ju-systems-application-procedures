@@ -1,7 +1,11 @@
-LESSON NAME
-===========
+EuroHPC JU systems' access application procedures
+=================================================
 
-Intro
+During this interactive tutorian we will:
+#. Lern about different EuroHPC JU systems
+#. Learn about the different types of access modes to these systems
+#. Learn about the internal review and evaluation procedures of the submitted applications
+#. Learn the tips and tricks on how to fill in the access call application forms 
 
 
 
