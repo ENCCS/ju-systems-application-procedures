@@ -41,6 +41,7 @@ The material of the tutorial is licensed under `CC-BY-4.0
    :caption: The lesson
    
    subsections/systems
+   subsections/Swedish participation
    subsections/access_modes
    subsections/review
    subsections/applications
