@@ -11,22 +11,69 @@ These are:
    :alt: **LUMI**
    :align: center
    
-   
 .. figure:: ../img/LUMI_spec.png
    :scale: 30%
    :alt: **LUMI**
    :align: center
-
 
 .. figure:: ../img/Leonardo.png
    :scale: 30%
    :alt: **LUMI**
    :align: center
    
-   
 .. figure:: ../img/Leonardo_spec.png
    :scale: 30%
    :alt: **LUMI**
    :align: center
 
+.. figure:: ../img/Vega.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
+   
+   
+.. figure:: ../img/Vega_spec.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
 
+.. figure:: ../img/Meluxina.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
+   
+   
+.. figure:: ../img/Meluxina_spec.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
+   
+.. figure:: ../img/Karolina.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
+   
+.. figure:: ../img/Karolina_spec.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
+
+.. figure:: ../img/PetaSC.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
+   
+.. figure:: ../img/PetaSC_spec.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
+
+.. figure:: ../img/Deucalion.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
+   
+.. figure:: ../img/Deucalion_spec.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
