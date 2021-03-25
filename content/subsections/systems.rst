@@ -6,13 +6,13 @@ EuroHPC JU is developing a world-class supercomputing infrastructure by procurin
 These are:
 
 
-.. figure:: img/LUMI.png
+.. figure:: ../img/LUMI.png
    :scale: 0%
    :alt: **LUMI**
    :align: center
    
    
-   .. figure:: img/LUMI_spec.png
+   .. figure:: ../img/LUMI_spec.png
    :scale: 0%
    :alt: **LUMI**
    :align: center
