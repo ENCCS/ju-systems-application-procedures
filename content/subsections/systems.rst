@@ -5,7 +5,6 @@ The EuroHPC Joint Undertaking allows the EU and EuroHPC participating countries 
 EuroHPC JU is developing a world-class supercomputing infrastructure by procuring and deploying by 2021 in the EU three pre-exascale supercomputers (capable of at least 1.0e+17 calculations per second) and five petascale supercomputers (capable of at least 1.0e+15 calculations per second). These new machines are being located across the European Union and will be available to Europe's private and public users, scientific and industrial users everywhere in Europe.
 These are:
 
-**LUMI**
 
 .. figure:: img/LUMI.png
    :scale: 0%
