@@ -25,4 +25,8 @@ Quick References
      - Will be announced soon
    * - Submission portal for both EuroHPC JU and PRACE calls
      -  `Application submission portal <https://pracecalls.eu/>`_
-   
+   * - PRACE Terms of Reference
+     -  `PRACE Terms of Reference <https://prace-ri.eu/wp-content/uploads/Terms_of_Reference_Call23.pdf>`_
+   * - PRACE Technical Guidelines for Applicants
+     -  `PRACE Technical Guidelines for Applicants <https://prace-ri.eu/wp-content/uploads/Technical_Guidelines_Call_23.pdf>`_
+    
