@@ -29,4 +29,7 @@ Quick References
      -  `PRACE Terms of Reference <https://prace-ri.eu/wp-content/uploads/Terms_of_Reference_Call23.pdf>`_
    * - PRACE Technical Guidelines for Applicants
      -  `PRACE Technical Guidelines for Applicants <https://prace-ri.eu/wp-content/uploads/Technical_Guidelines_Call_23.pdf>`_
+   * - PRACE Technical Guidelines for Applicants
+     -  `PRACE form for the Project Scope and Plan <https://prace-ri.eu/wp-content/uploads/Call23_ProjectScopePlan.docx>`_
+     
     
