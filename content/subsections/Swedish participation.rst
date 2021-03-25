@@ -1,7 +1,7 @@
 Posibilities for the Swedish researchers within academia, the public sector and industry
 -----------------------------------------------------------------------------------------
 
-Swedish researchers can send applications and have access to all the EuroHPC JU and PRACE resources. Moreover, the 3,5% of the LUMI system is a Swedish national past of the system and can be accessed vi  `ESNIC calls and forms <https://www.snic.se/allocations/compute/x-large/>`_ . This means that in simplöe words about 20 petaflops (peak performance)of LUMI are Swedish.
+Swedish researchers can send applications and have access to all the EuroHPC JU and PRACE resources. Moreover, the 3,5% of the LUMI system is a Swedish national past of the system and can be accessed vi  `SNIC calls and forms <https://www.snic.se/allocations/compute/x-large/>`_ . This means that in simplöe words about 20 petaflops (peak performance)of LUMI are Swedish.
 
 The application to the 3,5 % of LUMI should be done through the SNIC system and you are already acquainted with it.
 
