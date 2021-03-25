@@ -3,7 +3,7 @@ Quick References
 
 .. list-table:: Useful links
    :widths: 25 25
-   :header-rows: 3
+   :header-rows: 0
 
    * - PRACE infrastructure
      -  `https://prace-ri.eu/ <https://prace-ri.eu/>`_
