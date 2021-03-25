@@ -7,13 +7,13 @@ These are:
 
 
 .. figure:: ../img/LUMI.png
-   :scale: 0%
+   :scale: 30%
    :alt: **LUMI**
    :align: center
    
    
 .. figure:: ../img/LUMI_spec.png
-   :scale: 0%
+   :scale: 30%
    :alt: **LUMI**
    :align: center
 
