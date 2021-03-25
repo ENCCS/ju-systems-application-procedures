@@ -1,12 +1,12 @@
 EuroHPC JU systems' access application procedures
 =================================================
 
-During this interactive tutorial we will:
+During this interactive tutorial we will learn about:
 
-#. Learn about different EuroHPC JU systems
-#. Learn about the different types of access modes to these systems
-#. Learn about the internal review and evaluation procedures of the submitted applications
-#. Learn the tips and tricks on how to fill in the access call application forms 
+#. Different EuroHPC JU systems
+#. The different types of access modes to these systems
+#. The internal review and evaluation procedures of the submitted applications
+#. Tips and tricks on how to fill in the access call application forms 
 
 .. prereq::
 
@@ -21,7 +21,7 @@ Who is the course for?
 About the tutorial
 -------------------
 
-This material of this tutorial is developed by the `EuroCC National Competence Center
+The material of this tutorial is developed by the `EuroCC National Competence Center
 Sweden (ENCCS) <https://enccs.se/>`_ and taught in ENCCS workshops. 
 Some images are based on material provided by PRACE AISBL and EuroHPC JU.
 
