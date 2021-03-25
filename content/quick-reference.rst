@@ -37,6 +37,8 @@ Quick References
      - `Current 8 systems <https://eurohpc-ju.europa.eu/discover-eurohpc#ecl-inpage-211>`_
    * - EuroHPC JU Open Calls
      - Will be announced soon
+   * - Submission portal for both EuroHPC JU and PRACE calls
+     -  `Application submission portal <https://pracecalls.eu/>`_
      
   
      
