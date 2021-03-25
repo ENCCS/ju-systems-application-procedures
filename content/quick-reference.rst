@@ -17,6 +17,5 @@ Quick References
      -  `Project Access Open Calls <https://prace-ri.eu/hpc-access/project-access/>`_
      -  `Preparatory Access Calls with Cut-offs <https://prace-ri.eu/hpc-access/preparatory-access/preparatory-access-open-calls/>`_
      -  `DECI Access Open Calls <https://prace-ri.eu/hpc-access/deci-access/>`_
-   * - PRACE Open Calls for Industry
-     -  `PRACE_Industry Access calls <https://prace-ri.eu/prace-for-industry/industry-access/>`_
+   
      
