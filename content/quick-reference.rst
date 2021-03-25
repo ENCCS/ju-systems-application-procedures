@@ -31,12 +31,13 @@ Quick References
    :widths: 25 25
    :header-rows: 0
 
-
- * - EuroHPC JU
+   * - EuroHPC JU
      - `https://eurohpc-ju.europa.eu/ <https://eurohpc-ju.europa.eu/>`_
- * - EuroHPC JU systems
+   * - EuroHPC JU systems
      - `Current 8 systems <https://eurohpc-ju.europa.eu/discover-eurohpc#ecl-inpage-211>`_
- * - EuroHPC JU Open Calls
+   * - EuroHPC JU Open Calls
      - Will be announced soon
+     
+  
      
      
