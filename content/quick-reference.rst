@@ -7,10 +7,6 @@ Quick References
 
    * - PRACE infrastructure
      -  `https://prace-ri.eu/ <https://prace-ri.eu/>`_
-   * - EuroHPC JU
-     - `https://eurohpc-ju.europa.eu/ <https://eurohpc-ju.europa.eu/>`_
-   * - EuroHPC JU systems
-     - `Current 8 systems <https://eurohpc-ju.europa.eu/discover-eurohpc#ecl-inpage-211>`_
    * - PRACE systems
      -  `Current 7 systems <https://prace-ri.eu/hpc-access/hpc-systems/>`_
    * - PRACE Open Calls
@@ -33,3 +29,12 @@ Quick References
      -  `PRACE form for the Project Scope and Plan <https://prace-ri.eu/wp-content/uploads/Call23_ProjectScopePlan.docx>`_
      
     
+    
+.. list-table:: Useful links
+   :widths: 25 25
+   :header-rows: 0
+
+ * - EuroHPC JU
+     - `https://eurohpc-ju.europa.eu/ <https://eurohpc-ju.europa.eu/>`_
+   * - EuroHPC JU systems
+     - `Current 8 systems <https://eurohpc-ju.europa.eu/discover-eurohpc#ecl-inpage-211>`_
