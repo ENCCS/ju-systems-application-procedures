@@ -21,6 +21,8 @@ Quick References
      -  `DECI Access Open Calls <https://prace-ri.eu/hpc-access/deci-access/>`_
    * - PRACE Open Calls for Industry
      -  `PRACE_Industry Access calls <https://prace-ri.eu/prace-for-industry/industry-access/>`_
+   * - EuroHPC JU Open Calls
+     - Will be announced soon
+   * - Submission portal for both EuroHPC JU and PRACE calls
+     -  `Application submission portal <https://pracecalls.eu/>`_
    
-   
-     
