@@ -27,6 +27,8 @@ Quick References
      -  `PRACE form for the Project Scope and Plan <https://prace-ri.eu/wp-content/uploads/Call23_ProjectScopePlan.docx>`_
     
     
+    
+    
 .. list-table:: **EuroHPC JU Useful links**
    :widths: 25 25
    :header-rows: 0
