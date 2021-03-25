@@ -18,5 +18,15 @@ These are:
    :align: center
 
 
+.. figure:: ../img/Leonardo.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
+   
+   
+.. figure:: ../img/Leonardo_spec.png
+   :scale: 30%
+   :alt: **LUMI**
+   :align: center
 
 
