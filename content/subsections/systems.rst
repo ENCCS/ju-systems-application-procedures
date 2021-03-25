@@ -12,7 +12,7 @@ These are:
    :align: center
    
    
-   .. figure:: ../img/LUMI_spec.png
+.. figure:: ../img/LUMI_spec.png
    :scale: 0%
    :alt: **LUMI**
    :align: center
