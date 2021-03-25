@@ -29,9 +29,12 @@ The material of the tutorial is licensed under `CC-BY-4.0
 <https://creativecommons.org/licenses/by/4.0/>`_ and can be reused in any form
 (with appropriate credit) in other courses and workshops.
 
+
+
 .. csv-table::
    :widths: auto
    :delim: ;
+
 
 The schedule of the day
 ------------------------
