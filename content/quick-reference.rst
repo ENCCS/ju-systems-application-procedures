@@ -31,6 +31,7 @@ Quick References
    :widths: 25 25
    :header-rows: 0
 
+
  * - EuroHPC JU
      - `https://eurohpc-ju.europa.eu/ <https://eurohpc-ju.europa.eu/>`_
  * - EuroHPC JU systems
