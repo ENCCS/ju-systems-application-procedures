@@ -17,14 +17,12 @@ Who is the course for?
 
    The tutorial is intended for both applicants that have already had some experience with PRACE applications but most importantly for those who have never tried the European access call applications. However, we hope you already are acquainted with the consepts of `PRACE infrastructure <https://prace-ri.eu/>`_ and `EuroHPC JU <https://eurohpc-ju.europa.eu/>`_ from our yesterday's LUMI roadshow event.
 
-
 About the tutorial
 -------------------
 
 The material of this tutorial is developed by the `EuroCC National Competence Center
 Sweden (ENCCS) <https://enccs.se/>`_ and taught in ENCCS workshops. 
 Some images are based on material provided by PRACE AISBL and EuroHPC JU.
-
 The material of the tutorial is licensed under `CC-BY-4.0
 <https://creativecommons.org/licenses/by/4.0/>`_ and can be reused in any form
 (with appropriate credit) in other courses and workshops.
@@ -35,7 +33,6 @@ The material of the tutorial is licensed under `CC-BY-4.0
    :maxdepth: 1
 
    setup
-
 
 .. toctree::
    :hidden:
@@ -56,7 +53,6 @@ The material of the tutorial is licensed under `CC-BY-4.0
    30 min ; :doc:`subsections/review`
    10 min ; Break
    30 min ; :doc:`subsections/applications`
-
 
 .. toctree::
    :maxdepth: 1
