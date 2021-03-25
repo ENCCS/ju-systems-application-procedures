@@ -56,10 +56,6 @@ The material of the tutorial is licensed under `CC-BY-4.0
    quick-reference
    guide
 
-.. figure:: img/JU_call_types.png
-   :scale: 90%
-   :alt: EuroHPC JU types of calls
-   :align: center
 
 .. _learner-personas:
 
