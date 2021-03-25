@@ -23,6 +23,7 @@ About the tutorial
 The material of this tutorial is developed by the `EuroCC National Competence Center
 Sweden (ENCCS) <https://enccs.se/>`_ and taught in ENCCS workshops. 
 Some images are based on material provided by PRACE AISBL and EuroHPC JU.
+
 The material of the tutorial is licensed under `CC-BY-4.0
 <https://creativecommons.org/licenses/by/4.0/>`_ and can be reused in any form
 (with appropriate credit) in other courses and workshops.
