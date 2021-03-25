@@ -42,7 +42,7 @@ Quick References
    * - Submission portal for both EuroHPC JU and PRACE calls
      - `Application submission portal <https://pracecalls.eu/>`_
    * - EuroHPC JU Access Policy
-     - `JU Accessc policy <https://eurohpc-ju.europa.eu/sites/default/files/2021-03/Decision%2006.2021%20-%20Access%20policy.pdf>`_
+     - `JU Access policy <https://eurohpc-ju.europa.eu/sites/default/files/2021-03/Decision%2006.2021%20-%20Access%20policy.pdf>`_
      
   
      
