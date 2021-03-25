@@ -33,6 +33,8 @@ The material of the tutorial is licensed under `CC-BY-4.0
    :widths: auto
    :delim: ;
 
+The schedule of the day
+----------------------
    10 min ; :doc:`subsections/systems`
    10 min ; :doc:`subsections/access_modes`
    30 min ; :doc:`subsections/review`
@@ -54,7 +56,7 @@ The material of the tutorial is licensed under `CC-BY-4.0
    :caption: Reference
 
    quick-reference
-   guide
+
 
 
 .. _learner-personas:
