@@ -1,7 +1,7 @@
 Quick References
 ----------------
 
-.. list-table:: Useful links
+.. list-table:: PRACE Useful links
    :widths: 25 25
    :header-rows: 0
 
@@ -17,8 +17,6 @@ Quick References
      -  `DECI Access Open Calls <https://prace-ri.eu/hpc-access/deci-access/>`_
    * - PRACE Open Calls for Industry
      -  `PRACE_Industry Access calls <https://prace-ri.eu/prace-for-industry/industry-access/>`_
-   * - EuroHPC JU Open Calls
-     - Will be announced soon
    * - Submission portal for both EuroHPC JU and PRACE calls
      -  `Application submission portal <https://pracecalls.eu/>`_
    * - PRACE Terms of Reference
@@ -27,14 +25,17 @@ Quick References
      -  `PRACE Technical Guidelines for Applicants <https://prace-ri.eu/wp-content/uploads/Technical_Guidelines_Call_23.pdf>`_
    * - PRACE Technical Guidelines for Applicants
      -  `PRACE form for the Project Scope and Plan <https://prace-ri.eu/wp-content/uploads/Call23_ProjectScopePlan.docx>`_
-     
     
     
-.. list-table:: Useful links
+.. list-table:: EuroHPC JU Useful links
    :widths: 25 25
    :header-rows: 0
 
  * - EuroHPC JU
      - `https://eurohpc-ju.europa.eu/ <https://eurohpc-ju.europa.eu/>`_
-   * - EuroHPC JU systems
+ * - EuroHPC JU systems
      - `Current 8 systems <https://eurohpc-ju.europa.eu/discover-eurohpc#ecl-inpage-211>`_
+ * - EuroHPC JU Open Calls
+     - Will be announced soon
+     
+     
