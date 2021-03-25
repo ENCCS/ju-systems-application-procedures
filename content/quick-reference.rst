@@ -14,7 +14,8 @@ Quick References
    * - PRACE systems
      -  `Current 7 systems <https://prace-ri.eu/hpc-access/hpc-systems/>`_
    * - PRACE Open Calls
-     -  `Project Access Open Calls <https://prace-ri.eu/hpc-access/project-access/>`_ -  `Preparatory Access Calls with Cut-offs <https://prace-ri.eu/hpc-access/preparatory-access/preparatory-access-open-calls/>`_
+     -  `Project Access Open Calls <https://prace-ri.eu/hpc-access/project-access/>`_ 
+     `Preparatory Access Calls with Cut-offs <https://prace-ri.eu/hpc-access/preparatory-access/preparatory-access-open-calls/>`_
    * - 
      -  `Preparatory Access Calls with Cut-offs <https://prace-ri.eu/hpc-access/preparatory-access/preparatory-access-open-calls/>`_
    * - 
