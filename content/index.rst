@@ -15,7 +15,6 @@ During this interactive tutorial we will learn about:
 Who is the course for?
 ----------------------
 
-
    The tutorial is intended for both applicants that have already had some experience with PRACE applications but most importantly for those who have never tried the European access call applications. However, we hope you already are acquainted with the consepts of `PRACE infrastructure <https://prace-ri.eu/>`_ and `EuroHPC JU <https://eurohpc-ju.europa.eu/>`_ from our yesterday's LUMI roadshow event.
 
 About the tutorial
@@ -29,6 +28,32 @@ The material of the tutorial is licensed under `CC-BY-4.0
 <https://creativecommons.org/licenses/by/4.0/>`_ and can be reused in any form
 (with appropriate credit) in other courses and workshops.
 
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+
+   setup
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: The lesson
+   
+   subsections/systems
+   subsections/access_modes
+   subsections/review
+   subsections/applications
+
+.. csv-table::
+   :widths: auto
+   :delim: ;
+
+   10 min ; :doc:`subsections/systems`
+   10 min ; :doc:`subsections/access_modes`
+   30 min ; :doc:`subsections/review`
+   10 min ; Break
+   30 min ; :doc:`subsections/applications`
 
 
 .. csv-table::
