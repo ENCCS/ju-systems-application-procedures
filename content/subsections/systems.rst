@@ -8,12 +8,12 @@ These are:
 .. list-table:: **PRACE Useful links**
    :widths: 25 25
    :header-rows: 0
-* - **LUMI**
+   * - **LUMI**
 .. figure:: ../img/LUMI.png
    :scale: 30%
    :alt: **LUMI**
    :align: center
--  
+     -  
 .. figure:: ../img/LUMI_spec.png
    :scale: 30%
    :alt: **LUMI**
