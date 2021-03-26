@@ -16,12 +16,12 @@ These are:
 .. figure:: ../img/LUMI.png
    :scale: 30%
    :alt: **LUMI**
-   :align: center
+   :align: left
   
 .. figure:: ../img/LUMI_spec.png
    :scale: 30%
    :alt: **LUMI**
-   :align: center
+   :align: right
 
 .. figure:: ../img/Leonardo.png
    :scale: 30%
