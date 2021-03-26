@@ -25,62 +25,61 @@ These are:
 
 .. figure:: ../img/Leonardo.png
    :scale: 30%
-   :alt: **LUMI**
-   :align: center
+   :alt: **Leonardo**
+   :align: left
    
 .. figure:: ../img/Leonardo_spec.png
    :scale: 30%
-   :alt: **LUMI**
-   :align: center
+   :alt: **Leonardo**
+   :align: right
 
 .. figure:: ../img/Vega.png
    :scale: 30%
-   :alt: **LUMI**
-   :align: center
+   :alt: **Vega**
+   :align: left
    
    
 .. figure:: ../img/Vega_spec.png
    :scale: 30%
-   :alt: **LUMI**
-   :align: center
+   :alt: **Vega**
+   :align: right
 
 .. figure:: ../img/Meluxina.png
    :scale: 30%
-   :alt: **LUMI**
-   :align: center
-   
+   :alt: **Meluxina**
+   :align: left
    
 .. figure:: ../img/Meluxina_spec.png
    :scale: 30%
-   :alt: **LUMI**
-   :align: center
+   :alt: **Meluxina**
+   :align: right
    
 .. figure:: ../img/Karolina.png
    :scale: 30%
-   :alt: **LUMI**
-   :align: center
+   :alt: **Karolina**
+   :align: left
    
 .. figure:: ../img/Karolina_spec.png
    :scale: 30%
-   :alt: **LUMI**
-   :align: center
+   :alt: **Karolina**
+   :align: right
 
 .. figure:: ../img/PetaSC.png
    :scale: 30%
-   :alt: **LUMI**
-   :align: center
+   :alt: **PetaSC**
+   :align: left
    
 .. figure:: ../img/PetaSC_spec.png
    :scale: 30%
    :alt: **LUMI**
-   :align: center
+   :align: right
 
 .. figure:: ../img/Deucalion.png
    :scale: 30%
-   :alt: **LUMI**
-   :align: center
+   :alt: **Deucalion**
+   :align: Left
    
 .. figure:: ../img/Deucalion_spec.png
    :scale: 30%
-   :alt: **LUMI**
-   :align: center
+   :alt: **Deucalion**
+   :align: right
